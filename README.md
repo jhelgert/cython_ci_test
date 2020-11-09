@@ -1,2 +1,1 @@
-# cython_ci_test
-Simple test repo for testing CI via Appveyor
+This is just a repo for testing CI via Appveyor.
